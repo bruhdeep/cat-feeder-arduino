@@ -1,2 +1,2 @@
 # cat-feeder-arduino
-code for the pet feeder for iot project
+automatic pet feeder made using c++
