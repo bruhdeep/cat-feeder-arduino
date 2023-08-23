@@ -15,7 +15,6 @@ void setup(){
   pinMode(echoPin, INPUT);
 }
 
-
 void loop(){
   ultra_sonic();
   servo1.write(90);
